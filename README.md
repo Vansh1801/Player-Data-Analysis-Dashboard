@@ -1,1 +1,1 @@
-# Player-Data-Analysis-Dashboard
+Description: Created an interactive dashboard using Power BI to analyze Virat Kohli's international career statistics. Visualized runs, boundaries, and performance trends over the years using charts and KPIs. Demonstrated skills in data visualization and insights extraction.
